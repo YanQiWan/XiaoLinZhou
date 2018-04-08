@@ -7,25 +7,25 @@ Direct3D:
     VRAM:     2229 MB (via DXGI)
     Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Administrator\Desktop\TankWar3D\TankWar3D_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Administrator\Desktop\TankWar3D\TankWar3D_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Administrator\Desktop\TankWar3D\TankWar3D_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\Administrator\Desktop\TankWar3D\TankWar3D_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Administrator\Desktop\TankWar3D\TankWar3D_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Administrator\Desktop\TankWar3D\TankWar3D_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Administrator\Desktop\TankWar3D\TankWar3D_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
-Loading C:\Users\Administrator\Desktop\TankWar3D\TankWar3D_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Administrator\Desktop\TankWar3D\TankWar3D_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\Users\Administrator\Desktop\TankWar3D\TankWar3D_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.039 seconds
-desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: D:\Documents\GitHub\XiaoLinZhou\TankWar_FINAL鲁芯丝雨231，杨畅234，皖彦淇204\TankWar3Dgame\TankWar3D_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Documents\GitHub\XiaoLinZhou\TankWar_FINAL鲁芯丝雨231，杨畅234，皖彦淇204\TankWar3Dgame\TankWar3D_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Documents\GitHub\XiaoLinZhou\TankWar_FINAL鲁芯丝雨231，杨畅234，皖彦淇204\TankWar3Dgame\TankWar3D_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Documents\GitHub\XiaoLinZhou\TankWar_FINAL鲁芯丝雨231，杨畅234，皖彦淇204\TankWar3Dgame\TankWar3D_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Documents\GitHub\XiaoLinZhou\TankWar_FINAL鲁芯丝雨231，杨畅234，皖彦淇204\TankWar3Dgame\TankWar3D_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Documents\GitHub\XiaoLinZhou\TankWar_FINAL鲁芯丝雨231，杨畅234，皖彦淇204\TankWar3Dgame\TankWar3D_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Documents\GitHub\XiaoLinZhou\TankWar_FINAL鲁芯丝雨231，杨畅234，皖彦淇204\TankWar3Dgame\TankWar3D_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Documents\GitHub\XiaoLinZhou\TankWar_FINAL鲁芯丝雨231，杨畅234，皖彦淇204\TankWar3Dgame\TankWar3D_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Documents\GitHub\XiaoLinZhou\TankWar_FINAL鲁芯丝雨231，杨畅234，皖彦淇204\TankWar3Dgame\TankWar3D_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Documents\GitHub\XiaoLinZhou\TankWar_FINAL鲁芯丝雨231，杨畅234，皖彦淇204\TankWar3Dgame\TankWar3D_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.155 seconds
+desktop: 1920x1080 60Hz; virtual: 1280x720 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-UnloadTime: 0.257973 ms
+UnloadTime: 15.026922 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 348.
-Total: 0.929573 ms (FindLiveObjects: 0.021333 ms CreateObjectMapping: 0.013036 ms MarkObjects: 0.120097 ms  DeleteObjects: 0.323948 ms)
+Total: 0.977672 ms (FindLiveObjects: 0.023701 ms CreateObjectMapping: 0.011060 ms MarkObjects: 0.118900 ms  DeleteObjects: 0.363417 ms)
 
 randomIndex=0
  
@@ -64,114 +64,6 @@ Added : NoHealth with ID : Dead
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
 randomIndex=0
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : SawPlayer with ID : Chasing
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : NoHealth with ID : Dead
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : LostPlayer with ID : Patrolling
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : ReachPlayer with ID : Attacking
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : NoHealth with ID : Dead
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : SawPlayer with ID : Chasing
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : NoHealth with ID : Dead
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : NoHealth with ID : Dead
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-randomIndex=0
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : SawPlayer with ID : Chasing
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : NoHealth with ID : Dead
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : LostPlayer with ID : Patrolling
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : ReachPlayer with ID : Attacking
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : NoHealth with ID : Dead
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : SawPlayer with ID : Chasing
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : NoHealth with ID : Dead
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : NoHealth with ID : Dead
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-randomIndex=1
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : SawPlayer with ID : Chasing
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : NoHealth with ID : Dead
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : LostPlayer with ID : Patrolling
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : ReachPlayer with ID : Attacking
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : NoHealth with ID : Dead
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : SawPlayer with ID : Chasing
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : NoHealth with ID : Dead
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Added : NoHealth with ID : Dead
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-randomIndex=1
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
@@ -315,6 +207,134 @@ Added : NoHealth with ID : Dead
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
+randomIndex=0
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : SawPlayer with ID : Chasing
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : NoHealth with ID : Dead
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : LostPlayer with ID : Patrolling
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : ReachPlayer with ID : Attacking
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : NoHealth with ID : Dead
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : SawPlayer with ID : Chasing
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : NoHealth with ID : Dead
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : NoHealth with ID : Dead
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+randomIndex=0
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : SawPlayer with ID : Chasing
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : NoHealth with ID : Dead
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : LostPlayer with ID : Patrolling
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : ReachPlayer with ID : Attacking
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : NoHealth with ID : Dead
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : SawPlayer with ID : Chasing
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : NoHealth with ID : Dead
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : NoHealth with ID : Dead
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+randomIndex=1
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : SawPlayer with ID : Chasing
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : NoHealth with ID : Dead
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : LostPlayer with ID : Patrolling
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : ReachPlayer with ID : Attacking
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : NoHealth with ID : Dead
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : SawPlayer with ID : Chasing
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : NoHealth with ID : Dead
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Added : NoHealth with ID : Dead
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Reached to the destination point
+calculating the next point
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Reached to the destination point
+calculating the next point
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Reached to the destination point
+calculating the next point
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Reached to the destination point
+calculating the next point
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
 Reached to the destination point
 calculating the next point
  
@@ -349,37 +369,6 @@ Switch to Chase State
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Switch to Chase State
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Reached to the destination point
-calculating the next point
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Reached to the destination point
-calculating the next point
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Switch to Chase State
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Switch to Attack state
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Switch to Attack state
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Reached to the destination point
-calculating the next point
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
 Reached to the destination point
 calculating the next point
  
@@ -391,6 +380,16 @@ calculating the next point
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
 Switch to Attack state
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Reached to the destination point
+calculating the next point
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Reached to the destination point
+calculating the next point
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
@@ -412,6 +411,10 @@ Switch to Chase State
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
+Switch to Dead State
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
 Switch to Attack state
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
@@ -421,9 +424,50 @@ calculating the next point
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-UnloadTime: 1.321471 ms
+Reached to the destination point
+calculating the next point
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Switch to Chase State
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Reached to the destination point
+calculating the next point
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Switch to Attack state
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Reached to the destination point
+calculating the next point
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Reached to the destination point
+calculating the next point
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Reached to the destination point
+calculating the next point
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Switch to Chase State
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Switch to Attack state
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 2.092021 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 149.
-Total: 3.122939 ms (FindLiveObjects: 0.009086 ms CreateObjectMapping: 0.009876 ms MarkObjects: 0.101925 ms  DeleteObjects: 2.528771 ms)
+Total: 5.946222 ms (FindLiveObjects: 0.019750 ms CreateObjectMapping: 0.020145 ms MarkObjects: 0.195534 ms  DeleteObjects: 4.723638 ms)
 
